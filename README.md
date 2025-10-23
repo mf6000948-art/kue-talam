@@ -1,2 +1,2 @@
-# kue-talam
+# kuetalam
 kue talam manis dan gurih
